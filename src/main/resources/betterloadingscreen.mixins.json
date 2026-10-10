@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.mouren.better_loading_screen.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "betterloadingscreen.refmap.json",
+  "mixins": [],
+  "client": [
+    "LevelLoadingScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
